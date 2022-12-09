@@ -1,0 +1,15 @@
+{
+  "name": "parcel-targets-example",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "node build.mjs",
+    "test": "node test.js"
+  },
+  "devDependencies": {},
+  "dependencies": {
+    "@parcel/config-default": "^2.8.1",
+    "@parcel/core": "^2.8.1",
+    "gatsby-parcel-config": "^1.2.0"
+  }
+}
